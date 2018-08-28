@@ -1,5 +1,5 @@
 p{
-  color: black;
+  color: blue;
 }
 
 #server-side-intro {
@@ -8,9 +8,10 @@ p{
 
 .my-brand {
   font-size: 18px;
-  font-style: italic;
+  font-style: oblique;
   text-transformation: lowercase;
   color: red;
+  text-decoration: underline;
 /*
 this is a comment
 */
